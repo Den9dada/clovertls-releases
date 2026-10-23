@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AppInstaller xmlns="http://schemas.microsoft.com/appx/appinstaller/2018"
-    Version="0.0.1.6" Uri="https://den9dada.github.io/clovertls-releases/CloveRTLS.appinstaller">
-  <MainPackage Name="CloveRTLS.Desktop" Publisher="CN=CloveRTLS Development" Version="0.0.1.6"
-      ProcessorArchitecture="x64" Uri="https://github.com/Den9dada/clovertls-releases/releases/download/v0.0.1%2B6/CloveRTLS-0.0.1.6-windows-x64.msix" />
+    Version="0.0.1.7" Uri="https://den9dada.github.io/clovertls-releases/CloveRTLS.appinstaller">
+  <MainPackage Name="CloveRTLS.Desktop" Publisher="CN=CloveRTLS Development" Version="0.0.1.7"
+      ProcessorArchitecture="x64" Uri="https://github.com/Den9dada/clovertls-releases/releases/download/v0.0.1%2B7/CloveRTLS-0.0.1.7-windows-x64.msix" />
   <UpdateSettings>
     <OnLaunch HoursBetweenUpdateChecks="4" ShowPrompt="true" UpdateBlocksActivation="false" />
     <AutomaticBackgroundTask />
